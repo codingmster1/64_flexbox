@@ -47,8 +47,13 @@ body
 
 .hero
 {
-    
+    font-size: 22px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:rgb(171, 248, 171);
     padding: 60px 45px;
+}
+
+p
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
