@@ -68,9 +68,14 @@ body
     width:760px;
 }
 
-p
+.hero p
 {
-    font-weight: normal;
-    font-size: 17px;
+    font-size: 1.18rem;
+    line-height: 1.6;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button
+{
+    background-color: rgb(33, 228, 75);
 }
