@@ -78,4 +78,7 @@ body
 .button
 {
     background-color: rgb(33, 228, 75);
+    color:#FFF;
+    text-decoration:none;
+    padding: 12px 20px;
 }
