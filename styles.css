@@ -119,5 +119,13 @@ body
 {
     text-align:center;
     font-weight: normal;
-    
+
+}
+
+.gametitle p
+{
+    text-align:center;
+    font-size: 1.18rem;
+    line-height:1.6;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
