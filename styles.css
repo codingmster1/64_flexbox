@@ -18,12 +18,15 @@ body
 {
     color: #FFF;
     text-decoration: none;
+    display: block;
+    transition: all 0.3s ease-out;
 
 }
 
 .nav a:hover
 {
     color:aqua;
+    transform: rotate(6deg);
 }
 
 .nav 
