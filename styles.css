@@ -85,6 +85,8 @@ body
     font-size: 1.18rem;
 }
 
+
+
 .n64
 {
     margin-left:auto;
@@ -103,6 +105,20 @@ body
     font-size: 1.18rem;
     display:block;
     width:8%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.button3
+{
+    background-color: rgb(33, 228, 75);
+    color: #FFF;
+    text-decoration:none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.18rem;
+    display:block;
+    width:7%;
     margin-left:auto;
     margin-right: auto;
 }
