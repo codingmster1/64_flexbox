@@ -175,6 +175,14 @@ body
     width:32%;
 }
 
+.smash
+{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    width:32%;
+}
+
 .gametitle h1
 {
     text-align:center;
