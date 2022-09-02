@@ -153,6 +153,14 @@ body
     width:32%;
 }
 
+.mario
+{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    width:32%;
+}
+
 .gametitle h1
 {
     text-align:center;
@@ -176,6 +184,20 @@ body
 }
 
 .gametitle2 p
+{
+    text-align:center;
+    font-size: 1.18rem;
+    line-height:1.6;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.gametitle3 h1
+{
+    text-align:center;
+    font-weight: normal;
+}
+
+.gametitle3 p
 {
     text-align:center;
     font-size: 1.18rem;
