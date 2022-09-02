@@ -267,3 +267,23 @@ body
     font-weight:normal;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-item {
+    border: 1px solid #fff;
+    background-color: rgb(33, 228, 75);
+    height: 200px;
+    flex: 1;
+  }
+  
+  .footer-one,
+  .footer-three {
+    background-color: rgb(33, 228, 75);
+    flex: initial;
+    width: 300px;
+    
+  }
