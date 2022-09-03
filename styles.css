@@ -91,7 +91,9 @@ body
 {
     margin-left:auto;
     margin-right:auto;
-    display: block;
+    align-items:center;
+    justify-content: center;
+    display: flex;
     width: 50%;
 }
 
@@ -165,11 +167,14 @@ body
     margin-right: auto;
 }
 
+
 .oot
 {
     margin-right:auto;
     margin-left:auto;
-    display:block;
+    align-items:center;
+    justify-content: center;
+    display:flex; 
     width:30%;
 }
 
@@ -177,7 +182,9 @@ body
 {
     margin-right:auto;
     margin-left:auto;
-    display:block;
+    align-items:center;
+    justify-content:center;
+    display:flex;
     width:32%;
 }
 
@@ -185,7 +192,9 @@ body
 {
     margin-right:auto;
     margin-left:auto;
-    display:block;
+    justify-content:center;
+    align-items:center;
+    display:flex;
     width:32%;
 }
 
@@ -193,7 +202,9 @@ body
 {
     margin-right:auto;
     margin-left:auto;
-    display:block;
+    align-items:center;
+    justify-content: center;
+    display:flex;
     width:32%;
 }
 
