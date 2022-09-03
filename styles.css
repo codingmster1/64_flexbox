@@ -216,8 +216,10 @@ body
 
 .gametitle h1
 {
+    justify-items:center;
     text-align:center;
     font-weight: normal;
+    
 
 }
 
@@ -234,13 +236,24 @@ body
 
 .gametitle2 h1
 {
+    
     text-align:center;
     font-weight: normal;
+    justify-items:center;
 
+}
+
+.gameinner2 p
+{
+    width:400px;
 }
 
 .gametitle2 p
 {
+    
+    margin-left: auto;
+    margin-right:auto;
+    justify-content:center;
     text-align:center;
     font-size: 1.10rem;
     line-height:1.6;
@@ -249,12 +262,21 @@ body
 
 .gametitle3 h1
 {
+    justify-items:center;
     text-align:center;
     font-weight: normal;
 }
 
+.gameinner3 p
+{
+    width:400px;
+}
+
 .gametitle3 p
 {
+    margin-left: auto;
+    margin-right:auto;
+    justify-content:center;
     text-align:center;
     font-size: 1.10rem;
     line-height:1.6;
@@ -263,15 +285,21 @@ body
 
 .gametitle4 h1
 {
+    justify-items:center;
     text-align:center;
     font-weight: normal;
 }
 
+.gameinner4 p
+{
+    width:400px;
+}
+
 .gametitle4 p
 {
-    margin:0;
-    padding:0;
-    display:flex;
+    margin-left: auto;
+    margin-right:auto;
+    justify-content:center;
     list-style:none;
     text-align:center;
     font-size: 1.10rem;
