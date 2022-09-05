@@ -175,7 +175,7 @@ body
     align-items:center;
     justify-content: center;
     display:flex; 
-    width:30%;
+    width:32%;
 }
 
 .majora
@@ -229,7 +229,7 @@ body
     margin-right:auto;
     justify-content:center;
     text-align:center;
-    font-size: 1.10rem;
+    font-size: 1.14rem;
     line-height:1.6;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -255,7 +255,7 @@ body
     margin-right:auto;
     justify-content:center;
     text-align:center;
-    font-size: 1.10rem;
+    font-size: 1.14rem;
     line-height:1.6;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -278,7 +278,7 @@ body
     margin-right:auto;
     justify-content:center;
     text-align:center;
-    font-size: 1.10rem;
+    font-size: 1.14rem;
     line-height:1.6;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -302,7 +302,7 @@ body
     justify-content:center;
     list-style:none;
     text-align:center;
-    font-size: 1.10rem;
+    font-size: 1.14rem;
     line-height:1.6;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
